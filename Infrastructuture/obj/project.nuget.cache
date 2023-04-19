@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "15emw3dlGJtm2wsccO9EgZRlc6IP51HXexBCIPgcL5f0MKJY74t5sAYQc1hK1JmbYWgSE1hVYr6Bt3kbzEoaRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\repositorio\\Elevador\\Infrastructuture\\Infrastructuture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

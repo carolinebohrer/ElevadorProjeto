@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\bin\Debug\net7.0\Elevador.Domain.exe
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\bin\Debug\net7.0\Elevador.Domain.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\bin\Debug\net7.0\Elevador.Domain.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\bin\Debug\net7.0\Elevador.Domain.dll
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\bin\Debug\net7.0\Elevador.Domain.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.dll
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\refint\Elevador.Domain.dll
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\Elevador.Domain.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\repositorio\Elevador\Elevador.Domain\obj\Debug\net7.0\ref\Elevador.Domain.dll
